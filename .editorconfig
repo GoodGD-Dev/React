@@ -25,7 +25,7 @@ end_of_line = lf
 indent_size = 2
 
 [*.{cmd,bat}]
-end_of_line = crlf
+end_of_line = cr
 
 [*.sh]
 end_of_line = lf
